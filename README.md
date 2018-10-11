@@ -93,11 +93,11 @@ Feature: Testing mindthread
 >  However you need to extend in other cases."
 
 
-As we know course to a true product is never as we planned. So after lot of changes we end up with a form looking like :
+As we know course to a true product is never as we planned. So after iteration of changes we end up with a form looking like :
 
 ![alt tag](http://naveen.org.in/demo/images/form.png "Actual form developed")
 
-We few changes in end product like "Confirm Password" text and somepne realized we  missed "You agree to our Terms and Policy." for users. So these are added in final product.
+We end with few changes in end product like "Confirm Password" text and somepne realized we  missed "You agree to our Terms and Policy." for users. So these are added in final product.
 
 So what is change in final automated test, well nothing much jsut add 2 lines without writing any code.
 
