@@ -126,7 +126,7 @@ Feature: Testing mindthread
 All looks good? Yes, it should be everytime :), its a gif file. Try it and let me know if this does not work!
 
 
-# Logic, is this AI?
+# Logic: is this AI?
 
 Not really it work on a very premetive logic.
 It looks for for all elements on the page once it finds text or label with matching description then it tries to find matching element from remaining list.
