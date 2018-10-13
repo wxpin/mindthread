@@ -1,3 +1,5 @@
+![The frame](http://naveen.org.in/images/mt_logot.png "Logo")
+
 # mindthread - Simplified automation with selenium-webdriver & cucumber
 
 An example of selenium-webdriver with cucumber automation with no locators or complex xpaths. Mindthread uses text or labels of an element
